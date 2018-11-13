@@ -1,0 +1,7 @@
+C:\VG\study\TL\mongo-init
+λ docker build -t foo6 .
+docker run -it foo6
+
+
+C:\VG\study\TL
+docker-compose up --force-recreate
